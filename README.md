@@ -30,3 +30,4 @@ Microchip provides command line tools that should help me.
 
 [DAP](https://microsoft.github.io/debug-adapter-protocol/) - Debug Adapter Protocol - will allow me to implement the debugging interface for vscode. All I have to do is write my debug adapter based on [MDB user guide](http://ww1.microchip.com/downloads/en/DeviceDoc/50002102D.pdf).
 
+One of the best option to consider is create a dedicated dspic33 platform for the [platform.io](https://platformio.org/) project.
