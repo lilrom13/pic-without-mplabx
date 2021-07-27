@@ -15,3 +15,18 @@ platform IO is a plugin for VScode that allows embedded development for many pla
   - debug a target
   - include a build tool
   - include a TDD solution 
+
+## research:
+
+### compilation:
+In a first time, it should be possible to edit intelliSense C/C++ extension to call the xc16 compiler. An extension might be usefull later on.
+
+### programming:
+Microchip provides a command line tool for programming a pic microcontroller, I have to find how to interface it with vscode, probably with the c/c++ extension.
+
+### debugging:
+
+Microchip provides command line tools that should help me.
+
+[DAP](https://microsoft.github.io/debug-adapter-protocol/) - Debug Adapter Protocol - will allow me to implement the debugging interface for vscode. All I have to do is write my debug adapter based on [MDB user guide](http://ww1.microchip.com/downloads/en/DeviceDoc/50002102D.pdf).
+
