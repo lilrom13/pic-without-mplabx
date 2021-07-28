@@ -38,5 +38,5 @@ But same problem here. The debug utily provides by microchip is written is java.
 
 ### Work in progress
 
-I've decided to start with the creation of a programmation utily first, this utily lives in [\pic33-programmer](https://github.com/lilrom13/pic-without-mplabx/edit/main/pic33-programmer\README.md)
+I've decided to start with the creation of a programmation utily first, this utily lives in [\pic33-programmer](https://github.com/lilrom13/pic-without-mplabx/tree/main/pic33-programmer#readme)
 
